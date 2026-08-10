@@ -7,7 +7,7 @@ const clientDir = path.join(rootDir, 'client');
 const serverDir = __dirname;
 const distDir = path.join(serverDir, 'dist');
 
-const externalModules = ['sharp', 'sqlite3', 'ffmpeg-static', 'robotjs'];
+const externalModules = ['sharp', 'sqlite3', 'ffmpeg-static'];
 
 async function build() {
   console.log('🔨 Building full-stack app...\n');

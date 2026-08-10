@@ -29,7 +29,6 @@
     "jsonwebtoken": "^9.0.3",
     "mime-types": "^3.0.2",
     "multer": "^2.0.2",
-    "robotjs": "^0.6.0",
     "sharp": "^0.34.5",
     "sqlite3": "^5.1.7",
     "systeminformation": "^5.28.1",
